@@ -11,3 +11,13 @@
 * [TYPESCRIPT](<https://www.typescriptlang.org/>) - The typed programming language to JS
 * [ESLINT](<https://eslint.org/>) - The linter most used
 * [PRETTIER](<https://prettier.io/>) - The formatter most popular
+
+## NOTE
+
+`You should remove the current remote repository. For that follow the steps below`
+
+After cloning the repository:
+
+>_1 - Insert de following command: `git remote remove` origin_
+
+> _2 - Clone the new repository_
