@@ -18,6 +18,6 @@
 
 After cloning the repository:
 
->_1 - Insert de following command: `git remote remove` origin_
+>1 - Insert de following command: `git remote remove origin`
 
-> _2 - Clone the new repository_
+>2 - Clone the new repository
