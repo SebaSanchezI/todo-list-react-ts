@@ -18,6 +18,8 @@
 
 After cloning the repository:
 
->1 - Insert de following command: `git remote remove origin`
+>1 - Run the following command: `git remote remove origin`
 
 >2 - Clone the new repository
+
+>3 - Run the command: `npm install`
